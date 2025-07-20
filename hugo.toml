@@ -6,7 +6,6 @@ theme = "ananke"
 [params]
 author = "Phil Barton"
 description = "A Hugo site with menu pages"
-background_color_class = "bg-gray"
 
 ananke.show_recent_posts = true
 
