@@ -1,6 +1,5 @@
 ---
 title: The Fourth Thing
-image: images/pic04.jpg
 date: "2020-01-04T00:00:00"
 tags:
   - example
