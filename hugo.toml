@@ -1,0 +1,37 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Generic Site"
+theme = "ananke"
+
+[params]
+author = "Phil Barton"
+description = "A Hugo site with menu pages"
+background_color_class = "bg-gray"
+
+ananke.show_recent_posts = true
+
+[menu]
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "About"
+url = "/about/"
+weight = 4
+
+[[menu.main]]
+name = "Documents"
+url = "/documents/"
+weight = 2
+
+[[menu.main]]
+name = "News"
+url = "/news/"
+weight = 3
+
+[[menu.main]]
+name = "Contact"
+url = "/contact/"
+weight = 5
